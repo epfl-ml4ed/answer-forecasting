@@ -1,0 +1,41 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "andrey.albrecht@kantiwil.ch",
+        "firstName": "Andrey",
+        "id": 29,
+        "isEmailVerified": true,
+        "lastName": "Albrecht"
+    },
+    "createdTime": 1613052947532,
+    "description": "<strong>Beschreibe im unten stehenden Auszug aus Ogis Neujahrsrede die Wirkung der markierten Stilmittel.</strong><br><br><p>Wir danken den drei Generationen, die unserem Land im letzten Jahrhundert gedient haben; die es mit ihrem <strong>Wissen, K\u00f6nnen und Wollen</strong> durch turbulente Zeiten f\u00fchrten; die ein <strong>modernes, gerechtes und soziales</strong> Staatswesen geschaffen haben. Es bietet uns allen <strong>Sicherheit, Stabilit\u00e4t und Wohlstand</strong>. Daf\u00fcr sind wir dankbar.&nbsp;</p><p>Antworten&nbsp;</p>",
+    "documentType": "OPEN",
+    "hints": [],
+    "id": "4gS8hQmqVgw6kgvB36NNpd",
+    "metaData": {
+        "estimatedDifficulty": 3,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "stepifier": "KEYWORD",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "6.3A_STIL_RHET_12 (Kopie)",
+    "topic": {
+        "displayedOnDashboard": false,
+        "id": 2045,
+        "name": "Rhetorik"
+    },
+    "type": "OPEN",
+    "version": 0
+}

@@ -1,0 +1,235 @@
+{
+    "highlighted": [
+        {
+            "isBold": false,
+            "label": "Anapher",
+            "token": "Es"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "schlug"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "mein"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Herz,"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "geschwind,"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "zu"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Pferde!/"
+        },
+        {
+            "isBold": false,
+            "label": "Anapher",
+            "token": "\nEs"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "war"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "getan"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "fast"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "eh"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "gedacht./"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "\nDer"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Abend"
+        },
+        {
+            "isBold": false,
+            "label": "Personifikation",
+            "token": "wiegte"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "schon"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "die"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Erde,/"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "\nUnd"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "an"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "den"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Bergen"
+        },
+        {
+            "isBold": false,
+            "label": "Personifikation",
+            "token": "hing"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "die"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Nacht;/"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "\nSchon"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "stand"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "im"
+        },
+        {
+            "isBold": false,
+            "label": "Personifikation",
+            "token": "Nebelkleid"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "die"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Eiche/"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "\nEin"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "aufget\u00fcrmter"
+        },
+        {
+            "isBold": false,
+            "label": "Metapher",
+            "token": "Riese,"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "da,/"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "\nWo"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Finsternis"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "aus"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "dem"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "Gestr\u00e4uche/"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "\nMit"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "hundert"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "schwarzen"
+        },
+        {
+            "isBold": false,
+            "label": "Symbol",
+            "token": "Augen"
+        },
+        {
+            "isBold": false,
+            "label": "",
+            "token": "sah."
+        }
+    ],
+    "type": "MULTI_COLOR_HIGHLIGHT"
+}

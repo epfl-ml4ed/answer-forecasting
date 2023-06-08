@@ -1,0 +1,248 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "nadja.orfei@kantiolten.ch",
+        "firstName": "Nadja",
+        "id": 7351,
+        "isEmailVerified": true,
+        "lastName": "Orfei"
+    },
+    "createdTime": 1605689987649,
+    "description": "<p>Markiere die Tropen und Figuren im Gedichtauszug &quot;Willkommen und Abschied&quot; von Johann Wolfgang Goethe.</p>",
+    "documentType": "MULTI_COLOR_HIGHLIGHT",
+    "highlight": [
+        {
+            "isBold": false,
+            "label": "Anapher",
+            "token": "Es"
+        },
+        {
+            "isBold": false,
+            "token": "schlug"
+        },
+        {
+            "isBold": false,
+            "token": "mein"
+        },
+        {
+            "isBold": false,
+            "label": "Symbol",
+            "token": "Herz,"
+        },
+        {
+            "isBold": false,
+            "token": "geschwind,"
+        },
+        {
+            "isBold": false,
+            "token": "zu"
+        },
+        {
+            "isBold": false,
+            "token": "Pferde!"
+        },
+        {
+            "isBold": false,
+            "label": "Anapher",
+            "token": "\nEs"
+        },
+        {
+            "isBold": false,
+            "token": "war"
+        },
+        {
+            "isBold": false,
+            "token": "getan"
+        },
+        {
+            "isBold": false,
+            "token": "fast"
+        },
+        {
+            "isBold": false,
+            "token": "eh"
+        },
+        {
+            "isBold": false,
+            "token": "gedacht."
+        },
+        {
+            "isBold": false,
+            "token": "\nDer"
+        },
+        {
+            "isBold": false,
+            "token": "Abend"
+        },
+        {
+            "isBold": false,
+            "label": "Personifikation",
+            "token": "wiegte"
+        },
+        {
+            "isBold": false,
+            "token": "schon"
+        },
+        {
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "isBold": false,
+            "token": "Erde,"
+        },
+        {
+            "isBold": false,
+            "token": "\nUnd"
+        },
+        {
+            "isBold": false,
+            "token": "an"
+        },
+        {
+            "isBold": false,
+            "token": "den"
+        },
+        {
+            "isBold": false,
+            "token": "Bergen"
+        },
+        {
+            "isBold": false,
+            "label": "Metapher",
+            "token": "hing"
+        },
+        {
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "isBold": false,
+            "token": "Nacht;"
+        },
+        {
+            "isBold": false,
+            "token": "\nSchon"
+        },
+        {
+            "isBold": false,
+            "token": "stand"
+        },
+        {
+            "isBold": false,
+            "token": "im"
+        },
+        {
+            "isBold": false,
+            "token": "Nebelkleid"
+        },
+        {
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "isBold": false,
+            "token": "Eiche"
+        },
+        {
+            "isBold": false,
+            "token": "\nEin"
+        },
+        {
+            "isBold": false,
+            "token": "aufget\u00fcrmter"
+        },
+        {
+            "isBold": false,
+            "label": "Metapher",
+            "token": "Riese,"
+        },
+        {
+            "isBold": false,
+            "token": "da,"
+        },
+        {
+            "isBold": false,
+            "token": "\nWo"
+        },
+        {
+            "isBold": false,
+            "token": "Finsternis"
+        },
+        {
+            "isBold": false,
+            "token": "aus"
+        },
+        {
+            "isBold": false,
+            "token": "dem"
+        },
+        {
+            "isBold": false,
+            "token": "Gestr\u00e4uche"
+        },
+        {
+            "isBold": false,
+            "token": "\nMit"
+        },
+        {
+            "isBold": false,
+            "token": "hundert"
+        },
+        {
+            "isBold": false,
+            "token": "schwarzen"
+        },
+        {
+            "isBold": false,
+            "token": "Augen"
+        },
+        {
+            "isBold": false,
+            "token": "sah."
+        }
+    ],
+    "hints": [],
+    "id": "awd0i1DlVtg6kuMZSkpmHa",
+    "labels": {
+        "Anapher": {
+            "colorIndex": 3
+        },
+        "Metapher": {
+            "colorIndex": 2
+        },
+        "Personifikation": {
+            "colorIndex": 1
+        },
+        "Symbol": {
+            "colorIndex": 0
+        }
+    },
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "6.3 Rhetorik (RHET)",
+    "topic": {
+        "displayedOnDashboard": false,
+        "id": 2045,
+        "name": "Rhetorik"
+    },
+    "type": "MULTI_COLOR_HIGHLIGHT",
+    "version": 0,
+    "versionComment": ""
+}

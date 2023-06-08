@@ -1,0 +1,9 @@
+{
+    "gaps": [
+        "$\\overline{AB}\\div \\overline{AR}=\\overline{AP}\\div \\overline{AQ}$ (1. Strahlensatz)",
+        "$\\overline{AC}\\div \\overline{AS}=\\overline{AP}\\div \\overline{AQ}$ (ebenso)",
+        "$\\overline{AB}\\div \\overline{AR}=\\overline{AC}\\div \\overline{AS}$",
+        "$RS\\|BC$ (Umkehrung 1. Strahlensatz)"
+    ],
+    "type": "DND"
+}

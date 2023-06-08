@@ -1,0 +1,53 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "pe.hochstrasser@gmail.com",
+        "firstName": "Peter",
+        "id": 105,
+        "isEmailVerified": true,
+        "lastName": "Hochstrasser"
+    },
+    "clozeElements": [
+        {
+            "indexOfAnswer": 0,
+            "options": [
+                "f\u00fcr alle Werte von $m$",
+                "nur f\u00fcr $m=3$",
+                "falls $m\\neq$0"
+            ]
+        },
+        {
+            "indexOfAnswer": 1,
+            "options": [
+                "$m=3$",
+                "$m\\neq3$"
+            ]
+        }
+    ],
+    "clozeText": "Die Gleichung $2mx+3m=6x+9$ hat &nbsp;<img data-replacement-cloze-text-dropdown=\"0\" data-gap-data=\"{&quot;indexOfAnswer&quot;:0,&quot;options&quot;:[&quot;f\u00fcr alle Werte von m&quot;,&quot;nur f\u00fcr m = 3&quot;,&quot;falls $m\\\\neq$0&quot;]}\" class=\"fr-fic fr-dii\">&nbsp;mindestens eine L\u00f6sung. Falls <img data-replacement-cloze-text-dropdown=\"1\" data-gap-data=\"{&quot;indexOfAnswer&quot;:1,&quot;options&quot;:[&quot;m = 3&quot;,&quot;m $\\\\neq$ 3&quot;]}\" class=\"fr-fic fr-dii\">, dann ist die einzige L\u00f6sung $x=-\\frac{3}{2}$.",
+    "createdTime": 1590062488393,
+    "description": "",
+    "displayAsPairsOfTwo": false,
+    "documentType": "CLOZE_TEXT_DROPDOWN",
+    "hints": [],
+    "id": "aWq43m73MOza6PYJoj2teC",
+    "metaData": {
+        "estimatedDifficulty": 4,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "mode": "DEFAULT",
+    "solutionSteps": [],
+    "status": "LIVE",
+    "title": "TB3_D2.3_K4S4_Bre 164",
+    "type": "CLOZE_TEXT_DROPDOWN",
+    "version": 0,
+    "versionComment": "Live"
+}

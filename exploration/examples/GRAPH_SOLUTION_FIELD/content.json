@@ -1,0 +1,87 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "benedict.grupp@ksb-sg.ch",
+        "firstName": "Benedict",
+        "id": 36,
+        "isEmailVerified": true,
+        "lastName": "Grupp"
+    },
+    "createdTime": 1601976093701,
+    "description": "Bestimme die Steigung m und den y-Achsenabschnitt $q$ so, dass der Graph der Funktion $f$ mit $f(x) = mx + q$ mit der Grafik \u00fcbereinstimmt.",
+    "documentType": "GRAPH_PLOTTER_FIELD",
+    "graph": {
+        "options": {
+            "aspectRatio": 1,
+            "boundingBox": {
+                "xMax": 10,
+                "xMin": -10,
+                "yMax": 10,
+                "yMin": -10
+            },
+            "pointsPrecision": 1,
+            "showAxis": true,
+            "showGrid": true
+        },
+        "shapes": {
+            "graphAngleSections": [],
+            "graphCircles": [],
+            "graphFunctions": [
+                {
+                    "functionValue": "2x-3/2",
+                    "name": ""
+                }
+            ],
+            "graphPoints": [
+                {
+                    "name": "",
+                    "x": 4,
+                    "y": 6.5
+                },
+                {
+                    "name": "",
+                    "x": -2,
+                    "y": -5.5
+                }
+            ],
+            "graphSections": [],
+            "graphVectors": []
+        },
+        "solutionFieldFunctions": [
+            {
+                "functionValue": "2x-3/2",
+                "name": ""
+            }
+        ]
+    },
+    "hints": [],
+    "id": "aJJK4S7YifMauImqk5o1me",
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "TB4_D2.5_K2S2 BRE 2",
+    "topic": {
+        "description": "Die Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Geradengleichung anhand zweier Punkte bestimmen",
+        "displayedOnDashboard": false,
+        "id": 1015,
+        "name": "Geradengleichungen aus zwei Punkten"
+    },
+    "type": "GRAPH_PLOTTER_FIELD",
+    "version": 0,
+    "versionComment": ""
+}

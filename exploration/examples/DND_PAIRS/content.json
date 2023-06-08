@@ -1,0 +1,60 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "nadja.orfei@kantiolten.ch",
+        "firstName": "Nadja",
+        "id": 7351,
+        "isEmailVerified": true,
+        "lastName": "Orfei"
+    },
+    "createdTime": 1602954352077,
+    "description": "<p><strong>Ordne die Beispiele den entsprechenden rhetorischen Figuren zu.</strong></p>",
+    "documentType": "DND_PAIRS",
+    "dragAndDrop": [
+        {
+            "answer": "<p>Bern hat noch nicht geantwortet.</p>",
+            "question": "<p><strong>Metonymie:</strong> Ersetzung eines gebr&auml;uchlichen Wortes durch ein anderes, das zu ihm in unmittelbarer Beziehung steht</p>"
+        },
+        {
+            "answer": "<p>Iss deinen Teller auf!</p>",
+            "question": "<div title=\"Page 1\"><p><strong>Synekdoche:</strong> Ersetzung eines Ausdrucks, wobei entweder ein Teil f&uuml;r das Ganze oder das Ganze f&uuml;r einen Teil steht.</p></div>"
+        },
+        {
+            "answer": "<p>Als sie davon erfuhr, ist sie aus allen Wolken gefallen.</p>",
+            "question": "<p><strong>Metapher:</strong> Einem Wort wird ein bildhafter Ausdruck zugeordnet, der aus einem vollkommen unabh&auml;ngigen Bedeutungszusammenhnag stammt.&nbsp;</p>"
+        },
+        {
+            "answer": "<div title=\"Page 6\"><p>Mir schlug das Herz; geschwind zu Pferde/ Und fort, wild, wie ein Held zur Schlacht! (Goethe)</p></div>",
+            "question": "<p><strong>Vergleich:</strong> Gegen&uuml;berstellung zweier Sachverhalte, die eine Gemeinsamkeit haben. Verbunden werden sie durch Vergleichspartikel (wie, gleich, als ob...).</p>"
+        }
+    ],
+    "hints": [],
+    "id": "afilxZ8LycP5LReULeKngW",
+    "metaData": {
+        "estimatedDifficulty": 3,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "6.3A_STIL_RHET_7",
+    "topic": {
+        "displayedOnDashboard": false,
+        "id": 2045,
+        "name": "Rhetorik"
+    },
+    "type": "DND_PAIRS",
+    "version": 0,
+    "versionComment": ""
+}

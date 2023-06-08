@@ -1,0 +1,46 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "thomas.hueppi@kantiwil.ch",
+        "firstName": "Thomas",
+        "id": 37,
+        "isEmailVerified": true,
+        "lastName": "H\u00fcppi"
+    },
+    "automaticallyGenerateHints": true,
+    "createdTime": 1606578056377,
+    "description": "Es gilt $AE \\| BD$. Berechne $x$.<br><img src=\"https://files.taskbase.com/api/file/86GmCb1qHYJ8c07ER6ZGNt\" style=\"width: 300px;\" class=\"fr-fic fr-dib\">",
+    "documentType": "MATH_STEP_BY_STEP",
+    "hints": [],
+    "id": "a2FFoAfSUWP5DUmJk0oYK3",
+    "mathProblem": "(x+0.5)/1.2=0.5/0.4",
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "solution": "x=1",
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "TB6_D1.2_K2S2 Hup (mathegym 857) 5",
+    "topic": {
+        "description": "Sie k\u00f6nnen Strecken mit Hilfe des zweiten Strahlensatzes berechnen",
+        "displayedOnDashboard": false,
+        "id": 1048,
+        "name": "Zweiter Strahlensatz"
+    },
+    "type": "MATH_STEP_BY_STEP",
+    "version": 0,
+    "versionComment": ""
+}

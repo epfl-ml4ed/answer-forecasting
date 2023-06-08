@@ -1,0 +1,38 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "pe.hochstrasser@gmail.com",
+        "firstName": "Peter",
+        "id": 105,
+        "isEmailVerified": true,
+        "lastName": "Hochstrasser"
+    },
+    "clozeElements": [
+        "7"
+    ],
+    "clozeMath": [
+        "a=[--]"
+    ],
+    "createdTime": 1590061269835,
+    "description": "Bestimme $a$ so, dass die Gleichung $a\\left(x+2\\right)-2a=7\\left(x+1\\right)$ keine L\u00f6sungen hat.",
+    "documentType": "CLOZE_MATH",
+    "hints": [],
+    "id": "ax9rbwQ6bO55ZQRoPwNQq7",
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "title": "TB3_D2.3_K4S2_Bre 154",
+    "type": "CLOZE_MATH",
+    "version": 0,
+    "versionComment": "Live"
+}

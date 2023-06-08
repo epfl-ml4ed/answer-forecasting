@@ -1,0 +1,9 @@
+{
+    "gaps": [
+        {
+            "correct": "WRONG",
+            "solution": "7"
+        }
+    ],
+    "type": "CLOZE_MATH"
+}

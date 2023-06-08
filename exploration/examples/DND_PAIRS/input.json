@@ -1,0 +1,9 @@
+{
+    "input": [
+        "<p>Ich gehe in die Bibliothek, um das Buch zu verl\u00e4ngern.</p>",
+        "<p>Iss deinen Teller auf!</p>",
+        "<p>Als sie davon erfuhr, ist sie aus allen Wolken gefallen.</p>",
+        "<div title=\"Page 6\"><p>Mir schlug das Herz; geschwind zu Pferde/ Und fort, wild, wie ein Held zur Schlacht! (Goethe)</p></div>"
+    ],
+    "type": "DND_PAIRS"
+}

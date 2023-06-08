@@ -1,0 +1,11 @@
+{
+    "input": [
+        "Satzanfang",
+        "Adjektiv",
+        "Satzanfang nach Doppelpunkt",
+        "Verb",
+        "Verbzusatz zu festhalten",
+        "Nomen"
+    ],
+    "type": "DND_IN_TEXT"
+}

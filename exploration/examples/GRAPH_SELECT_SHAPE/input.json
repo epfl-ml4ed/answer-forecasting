@@ -1,0 +1,18 @@
+{
+    "selectedShapes": {
+        "graphAngleSections": [],
+        "graphCircles": [],
+        "graphFunctions": [
+            {
+                "color": "#f5a623",
+                "functionValue": "-2x-1",
+                "isSolution": true,
+                "name": "h"
+            }
+        ],
+        "graphPoints": [],
+        "graphSections": [],
+        "graphVectors": []
+    },
+    "type": "GRAPH_SELECT_SHAPE"
+}

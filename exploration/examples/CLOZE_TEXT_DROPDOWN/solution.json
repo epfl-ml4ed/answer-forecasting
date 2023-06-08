@@ -1,0 +1,7 @@
+{
+    "gaps": [
+        "f\u00fcr alle Werte von $m$",
+        "$m\\neq3$"
+    ],
+    "type": "CLOZE_TEXT_DROPDOWN"
+}

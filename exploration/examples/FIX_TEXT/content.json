@@ -1,0 +1,37 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "diana.weiss@kzu.ch",
+        "firstName": "Diana",
+        "id": 801,
+        "isEmailVerified": true,
+        "lastName": "Weiss"
+    },
+    "createdTime": 1588839070119,
+    "description": "<strong>Korrigiere in den folgenden S\u00e4tzen die fehlerhafte Gross- und Kleinschreibung.&nbsp;</strong>",
+    "documentType": "FIX_TEXT",
+    "hints": [],
+    "id": "7l7NAqeoPcha2CUilKYGHB",
+    "metaData": {
+        "estimatedDifficulty": 3,
+        "estimatedDuration": 60,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "textWithMistakes": {
+        "solution": "Trotz all dem Weh und Ach meiner Eltern: Meine Schuld ist es nicht, wahrscheinlich ist gar niemand schuld.\n\nImmer wieder dieses Hin und Her, dieses Gezeter und Gestreite! Immer wieder dieses elende Entweder-oder m\u00f6chte ich mich endlich wieder frei entscheiden k\u00f6nnen zwischen allen Optionen.\n\nHeute hielten wir fest, dass wir morgen aufh\u00f6ren werden, unordentlich zu sein, wenigstens in unserem Spint. Unsere innere Stimme hat deutlich Ja gesagt!",
+        "stimulus": "Trotz all dem weh und ach meiner Eltern: Meine schuld war es nicht, wahrscheinlich ist gar niemand Schuld.\n\nImmer wieder dieses hin und her, dieses gezeter und gestreite! Immer wieder dieses elende entweder-oder, ich m\u00f6chte mich endlich wieder frei entscheiden k\u00f6nnen zwischen allen Optionen.\n\nHeute hielten wir Fest, dass wir Morgen aufh\u00f6ren werden, Unordentlich zu sein, wenigstens in unserem Spint. Unsere innere Stimme hat deutlich ja gesagt!"
+    },
+    "title": "1.2Ab_ORTH_GK_NOMEN_UND_NOMINALISIERUNGEN_PRONOMEN T-alpha 6 (Kopie)",
+    "type": "FIX_TEXT",
+    "version": 0,
+    "versionComment": "Vortest/Nachtest Aufgaben sollten w\u00e4hrend der Alpha-Phase nicht live sein"
+}

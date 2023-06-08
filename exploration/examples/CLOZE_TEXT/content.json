@@ -1,0 +1,49 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "nadja.orfei@kantiolten.ch",
+        "firstName": "Nadja",
+        "id": 7351,
+        "isEmailVerified": true,
+        "lastName": "Orfei"
+    },
+    "clozeElements": [
+        "Metapher",
+        "Personifikation",
+        "Symbol",
+        "Ironie"
+    ],
+    "clozeText": "<p>Die blauen Fr&uuml;hlings<strong>augen &nbsp; &nbsp; &nbsp; &nbsp;<img data-replacement-cloze-text-input=\"0\" data-gap-data=\"&quot;Metapher&quot;\" class=\"fr-fic fr-dii\"></strong><br><strong>Schaun</strong> aus dem Gras hervor; &nbsp;&nbsp;<img data-replacement-cloze-text-input=\"1\" data-gap-data=\"&quot;Personifikation&quot;\" class=\"fr-fic fr-dii\"><br>Das sind die lieben Veilchen,<br>Die ich zum Strau&szlig; erkor.<br><br></p><p>Ich pfl&uuml;cke sie und denke,<br>Und die Gedanken all,<br>Die mir im Herzen seufzen,<br>Singt laut die <strong>Nachtigall</strong>. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img data-replacement-cloze-text-input=\"2\" data-gap-data=\"&quot;Symbol&quot;\" class=\"fr-fic fr-dii\"><br><br></p><p>Ja, was ich denke, singt sie<br>Lautschmetternd, dass es schallt;<br><strong>Mein z&auml;rtliches Geheimnis</strong><br><strong>Wei&szlig; schon der ganze Wald</strong>. &nbsp;&nbsp;<img data-replacement-cloze-text-input=\"3\" data-gap-data=\"&quot;Ironie&quot;\" class=\"fr-fic fr-dii\"></p>",
+    "createdTime": 1602954304803,
+    "description": "<p><strong>Schreibe die Namen der rhetorischen Figuren und Tropen in die L&uuml;cke hinter die markierten Ausdr&uuml;cke im Gedicht von Heinrich Heine.</strong></p>",
+    "documentType": "CLOZE_TEXT_INPUT",
+    "hints": [],
+    "id": "9wk5dtV2mF59odW0wCEYYc",
+    "metaData": {
+        "estimatedDifficulty": 3,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "6.3A_STIL_RHET_5",
+    "topic": {
+        "displayedOnDashboard": false,
+        "id": 2045,
+        "name": "Rhetorik"
+    },
+    "type": "CLOZE_TEXT_INPUT",
+    "version": 0,
+    "versionComment": ""
+}

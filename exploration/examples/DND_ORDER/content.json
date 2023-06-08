@@ -1,0 +1,49 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "thomas.hueppi@kantiwil.ch",
+        "firstName": "Thomas",
+        "id": 37,
+        "isEmailVerified": true,
+        "lastName": "H\u00fcppi"
+    },
+    "createdTime": 1613379758687,
+    "description": "$P$ ist ein beliebiger Punkt im Innern des Dreiecks $ABC$. Zeige, dass $RS\\|BC$ gilt.<br><img src=\"https://files.taskbase.com/api/file/80Vgem9dmXaatKBvGgcwEf\"><br>Die L\u00f6sung der Aufgabe ist durcheinander geraten. Bringe die einzelnen Schritte in die korrekte Reihenfolge.",
+    "documentType": "DND_ORDER",
+    "dragAndDrop": [
+        "$\\overline{AB}\\div \\overline{AR}=\\overline{AP}\\div \\overline{AQ}$ (1. Strahlensatz)",
+        "$\\overline{AC}\\div \\overline{AS}=\\overline{AP}\\div \\overline{AQ}$ (ebenso)",
+        "$\\overline{AB}\\div \\overline{AR}=\\overline{AC}\\div \\overline{AS}$",
+        "$RS\\|BC$ (Umkehrung 1. Strahlensatz)"
+    ],
+    "hints": [],
+    "id": "4Hqt55d8vFI6CmHJRy4jKd",
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "estimatedDuration": 180,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "TB6_D1.3_K3S2 Hup 17",
+    "topic": {
+        "description": "Sie k\u00f6nnen die Umkehrung des ersten Strahlensatzes anwenden",
+        "displayedOnDashboard": false,
+        "id": 1049,
+        "name": "Erster Strahlensatz - Umkehrung"
+    },
+    "type": "DND_ORDER",
+    "version": 0,
+    "versionComment": ""
+}

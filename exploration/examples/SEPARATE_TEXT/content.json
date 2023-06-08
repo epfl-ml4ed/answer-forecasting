@@ -1,0 +1,115 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "nadja.orfei@kantiolten.ch",
+        "firstName": "Nadja",
+        "id": 7351,
+        "isEmailVerified": true,
+        "lastName": "Orfei"
+    },
+    "createdTime": 1603043631388,
+    "description": "",
+    "documentType": "SEPARATE_TEXT",
+    "hints": [],
+    "id": "7ef6Y8YFFug7a9UuHKPMla",
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "2. Interpunktion (Kopie)",
+    "topic": {
+        "description": "",
+        "displayedOnDashboard": false,
+        "id": 3104,
+        "name": "Interpunktion"
+    },
+    "type": "SEPARATE_TEXT",
+    "version": 0,
+    "words": [
+        {
+            "separatorRight": "NONE",
+            "text": "Das"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "Komma"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "(Plural:"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "Kommata"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "oder"
+        },
+        {
+            "separatorRight": "COMMA",
+            "text": "Kommas)"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "\u00f6sterreichisch"
+        },
+        {
+            "separatorRight": "COMMA",
+            "text": "Beistrich"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "dient"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "in"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "der"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "Schriftsprache"
+        },
+        {
+            "separatorRight": "COMMA",
+            "text": "dazu"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "Teile"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "eines"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "Satzes"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "voneinander"
+        },
+        {
+            "separatorRight": "NONE",
+            "text": "abzugrenzen."
+        }
+    ]
+}

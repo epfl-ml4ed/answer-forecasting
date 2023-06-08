@@ -1,0 +1,11 @@
+{
+    "gaps": [
+        "Satzanfang",
+        "Verbzusatz zu festhalten",
+        "Satzanfang nach Doppelpunkt",
+        "Verb",
+        "Adjektiv",
+        "Nomen"
+    ],
+    "type": "DND"
+}

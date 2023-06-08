@@ -1,0 +1,61 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "diana.weiss@kzu.ch",
+        "firstName": "Diana",
+        "id": 801,
+        "isEmailVerified": true,
+        "lastName": "Weiss"
+    },
+    "clozeElements": [
+        {
+            "answer": "Satzanfang",
+            "text": "Heute"
+        },
+        {
+            "answer": "Verbzusatz zu festhalten",
+            "text": "fest"
+        },
+        {
+            "answer": "Satzanfang nach Doppelpunkt",
+            "text": "Morgen"
+        },
+        {
+            "answer": "Verb",
+            "text": "aufh\u00f6ren"
+        },
+        {
+            "answer": "Adjektiv",
+            "text": "unordentlich"
+        },
+        {
+            "answer": "Nomen",
+            "text": "Spint"
+        }
+    ],
+    "clozeText": "<p><img data-replacement-dnd-in-text=\"0\" data-gap-data=\"{&quot;text&quot;:&quot;Heute&quot;,&quot;answer&quot;:&quot;Satzanfang&quot;}\" class=\"fr-fic fr-dii\">&nbsp;hielten wir <img data-replacement-dnd-in-text=\"1\" data-gap-data=\"{&quot;text&quot;:&quot;fest&quot;,&quot;answer&quot;:&quot;Verbzusatz zu festhalten&quot;}\" class=\"fr-fic fr-dii\">: <img data-replacement-dnd-in-text=\"2\" data-gap-data=\"{&quot;text&quot;:&quot;Morgen&quot;,&quot;answer&quot;:&quot;Satzanfang nach Doppelpunkt&quot;}\" class=\"fr-fic fr-dii\">&nbsp;werden wir <img data-replacement-dnd-in-text=\"3\" data-gap-data=\"{&quot;text&quot;:&quot;aufh\u00f6ren&quot;,&quot;answer&quot;:&quot;Verb&quot;}\" class=\"fr-fic fr-dii\"><img data-replacement-dnd-in-text=\"4\" data-gap-data=\"{&quot;text&quot;:&quot;unordentlich&quot;,&quot;answer&quot;:&quot;Adjektiv&quot;}\" class=\"fr-fic fr-dii\">&nbsp;zu sein, wenigstens in unserem <img data-replacement-dnd-in-text=\"5\" data-gap-data=\"{&quot;text&quot;:&quot;&quot;,&quot;answer&quot;:&quot;&quot;}\" class=\"fr-fic fr-dii\">.</p>",
+    "createdTime": 1587522658124,
+    "description": "<strong>Unter den S\u00e4tzen sind Stichworte angegeben, die jeweils die Regel f\u00fcr die korrekte Gross- und Kleinschreibung des markierten Wortes knapp benennen. Ziehe das richtige Stichwort zum passenden Feld.</strong>",
+    "documentType": "DND_IN_TEXT",
+    "hints": [],
+    "id": "9qQrkFnmJota5tExMZdAnl",
+    "metaData": {
+        "estimatedDifficulty": 3,
+        "estimatedDuration": 60,
+        "isMobile": true
+    },
+    "solutionSteps": [
+        ""
+    ],
+    "status": "LIVE",
+    "title": "1.2Ab_ORTH_GK_NOMEN_UND_NOMINALISERUNGEN gemischt Korrektur 5 (Regeln) 3 \u00dc-alpha",
+    "type": "DND_IN_TEXT",
+    "version": 0
+}

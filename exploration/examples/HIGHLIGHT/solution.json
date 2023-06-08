@@ -1,0 +1,215 @@
+{
+    "tokens": [
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Dass"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "regelm\u00e4ssiger"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Cannabiskonsum"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "sch\u00e4dlich"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "sein"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "kann"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "\u2013"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "erst"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "recht"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "beim"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Kiffen"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "ohne"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Filter"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "\u2013,"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "ist"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "unbestritten"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "-"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "doch"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "dasselbe"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "gilt"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "auch"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "f\u00fcr"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Tabak"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Alkohol."
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Der"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Bund"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "sch\u00e4tzt"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "sozialen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "volkswirtschaftlichen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Kosten"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "des"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Trinkens"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "auf"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "\u00fcber"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "vier"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Milliarden"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Franken"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "pro"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Jahr."
+        }
+    ],
+    "type": "HIGHLIGHT"
+}

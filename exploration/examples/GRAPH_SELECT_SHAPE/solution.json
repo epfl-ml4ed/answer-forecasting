@@ -1,0 +1,32 @@
+{
+    "shapes": {
+        "graphAngleSections": [],
+        "graphCircles": [],
+        "graphFunctions": [
+            {
+                "functionValue": "2x-1",
+                "isSolution": false,
+                "name": "f"
+            },
+            {
+                "functionValue": "x-2",
+                "isSolution": false,
+                "name": "g"
+            },
+            {
+                "functionValue": "-2x-1",
+                "isSolution": true,
+                "name": "h"
+            },
+            {
+                "functionValue": "-2x+3",
+                "isSolution": false,
+                "name": "k"
+            }
+        ],
+        "graphPoints": [],
+        "graphSections": [],
+        "graphVectors": []
+    },
+    "type": "GRAPH_SELECT_SHAPE"
+}

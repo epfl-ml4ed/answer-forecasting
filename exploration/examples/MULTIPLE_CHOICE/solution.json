@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "content": "$\\mathbb{L}=[3,\\infty]$",
+            "correct": false
+        },
+        {
+            "content": "$\\mathbb{L}=\\mathbb{R}$",
+            "correct": true
+        },
+        {
+            "content": "$\\mathbb{L}=]-\\infty,3]$",
+            "correct": false
+        },
+        {
+            "content": "$\\mathbb{L}=\\{\\space\\}$",
+            "correct": false
+        }
+    ],
+    "type": "MULTIPLE_CHOICE"
+}

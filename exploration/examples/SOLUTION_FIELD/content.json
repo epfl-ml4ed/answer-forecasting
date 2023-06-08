@@ -1,0 +1,36 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "thomas.hueppi@kantiwil.ch",
+        "firstName": "Thomas",
+        "id": 37,
+        "isEmailVerified": true,
+        "lastName": "H\u00fcppi"
+    },
+    "createdTime": 1586507385217,
+    "description": "L\u00f6se die folgende Gleichung (ohne Fallunterscheidung) nach $x$ auf:<br>$ax+b=9b$",
+    "documentType": "SOLUTION_FIELD",
+    "hints": [],
+    "id": "2zyREqKB55n8YDGrJlQJBj",
+    "isStepByStep": false,
+    "metaData": {
+        "estimatedDifficulty": 1,
+        "estimatedDuration": 60,
+        "isMobile": true
+    },
+    "solution": [
+        "\\frac{8b}{a}"
+    ],
+    "solutionSteps": [],
+    "status": "LIVE",
+    "title": "TB3_D2.2_K2S1_Hup8",
+    "type": "SOLUTION_FIELD",
+    "version": 0
+}

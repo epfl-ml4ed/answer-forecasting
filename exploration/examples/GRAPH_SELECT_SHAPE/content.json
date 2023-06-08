@@ -1,0 +1,84 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "pe.hochstrasser@gmail.com",
+        "firstName": "Peter",
+        "id": 105,
+        "isEmailVerified": true,
+        "lastName": "Hochstrasser"
+    },
+    "createdTime": 1591285877664,
+    "description": "W\u00e4hle den Graphen im Koordinatensystem aus, der zu den Werten in der Wertetabelle passt.<table><tbody><tr><td>x</td><td>-2</td><td>0</td><td>2</td><td>4</td></tr><tr><td>y</td><td>3</td><td>1</td><td>-1</td><td>-3</td></tr></tbody></table>",
+    "documentType": "GRAPH_PLOTTER_SELECT",
+    "graph": {
+        "options": {
+            "aspectRatio": 1,
+            "boundingBox": {
+                "xMax": 8,
+                "xMin": -8,
+                "yMax": 8,
+                "yMin": -8
+            },
+            "pointsPrecision": 1,
+            "showAxis": true,
+            "showGrid": true
+        },
+        "selectableShapes": {
+            "graphAngleSections": [],
+            "graphCircles": [],
+            "graphFunctions": [
+                {
+                    "functionValue": "2x-1",
+                    "isSolution": false,
+                    "name": "f"
+                },
+                {
+                    "functionValue": "x-2",
+                    "isSolution": false,
+                    "name": "g"
+                },
+                {
+                    "functionValue": "-2x-1",
+                    "isSolution": true,
+                    "name": "h"
+                },
+                {
+                    "functionValue": "-2x+3",
+                    "isSolution": false,
+                    "name": "k"
+                }
+            ],
+            "graphPoints": [],
+            "graphSections": [],
+            "graphVectors": []
+        },
+        "shapes": {
+            "graphAngleSections": [],
+            "graphCircles": [],
+            "graphFunctions": [],
+            "graphPoints": [],
+            "graphSections": [],
+            "graphVectors": []
+        }
+    },
+    "hints": [],
+    "id": "68d7OZ2lwh57VSsPCk9lkT",
+    "metaData": {
+        "estimatedDifficulty": 1,
+        "estimatedDuration": 60,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "title": "TB4_D1.2_K2S1_hcs_004",
+    "type": "GRAPH_PLOTTER_SELECT",
+    "version": 0,
+    "versionComment": "-"
+}

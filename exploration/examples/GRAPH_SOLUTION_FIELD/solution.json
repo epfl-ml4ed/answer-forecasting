@@ -1,0 +1,12 @@
+{
+    "solutionFields": [
+        {
+            "correct": "CORRECT",
+            "solution": {
+                "functionValue": "2x-3/2",
+                "name": ""
+            }
+        }
+    ],
+    "type": "GRAPH_SOLUTION_FIELD"
+}

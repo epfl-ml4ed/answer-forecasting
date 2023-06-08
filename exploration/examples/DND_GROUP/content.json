@@ -1,0 +1,60 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "andrey.albrecht@kantiwil.ch",
+        "firstName": "Andrey",
+        "id": 29,
+        "isEmailVerified": true,
+        "lastName": "Albrecht"
+    },
+    "createdTime": 1603868815661,
+    "description": "Ordne die unten stehenden Ausdr\u00fccke der entsprechenden Stilschicht zu.",
+    "documentType": "DND_GROUP",
+    "dragAndDrop": [
+        {
+            "answers": [
+                "gr\u00fcbeln",
+                "hirnen"
+            ],
+            "question": "<p>Umgangssprache (z.B. im Alltag verwendet, gesprochen)</p>"
+        },
+        {
+            "answers": [
+                "denken"
+            ],
+            "question": "<p>Standardsprache (z.B. in der Zeitung)</p>"
+        },
+        {
+            "answers": [
+                "sinnen"
+            ],
+            "question": "<p>Gehobene Sprache (z.B. in Kirche, vor Gericht, in Poesie)</p>"
+        }
+    ],
+    "hints": [],
+    "id": "7p2TWC9nroEaKxCu2w4FfR",
+    "metaData": {
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "6.4A_STIL_ANGEMESS_EBENE_11 (Kopie)",
+    "topic": {
+        "displayedOnDashboard": false,
+        "id": 2049,
+        "name": "Stilebenen"
+    },
+    "type": "DND_GROUP",
+    "version": 0
+}

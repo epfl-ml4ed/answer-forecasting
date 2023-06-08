@@ -1,0 +1,25 @@
+{
+    "groups": [
+        {
+            "answers": [
+                "fesch",
+                "sexy",
+                "ant\u00f6rnend"
+            ],
+            "question": "<p>Umgangssprache (z.B. im Alltag verwendet, gesprochen)</p>"
+        },
+        {
+            "answers": [
+                "attraktiv"
+            ],
+            "question": "<p>Standardsprache (z.B. in der Zeitung)</p>"
+        },
+        {
+            "answers": [
+                "ber\u00fcckend"
+            ],
+            "question": "<p>Gehobene Sprache (z.B. in Kirche, vor Gericht, in Poesie)</p>"
+        }
+    ],
+    "type": "DND_GROUP"
+}

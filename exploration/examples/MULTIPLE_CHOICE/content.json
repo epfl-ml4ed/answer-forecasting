@@ -1,0 +1,62 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "benedict.grupp@ksb-sg.ch",
+        "firstName": "Benedict",
+        "id": 36,
+        "isEmailVerified": true,
+        "lastName": "Grupp"
+    },
+    "choices": [
+        {
+            "content": "$\\mathbb{L}=[3,\\infty]$",
+            "correct": false
+        },
+        {
+            "content": "$\\mathbb{L}=\\mathbb{R}$",
+            "correct": true
+        },
+        {
+            "content": "$\\mathbb{L}=]-\\infty,3]$",
+            "correct": false
+        },
+        {
+            "content": "Es gibt keine L\u00f6sung.",
+            "correct": false
+        }
+    ],
+    "createdTime": 1602947481233,
+    "description": "Welche ist die L\u00f6sungsmenge der Ungleichung<br>$\\left(x-3\\right)^2\\ge0?$",
+    "documentType": "MULTIPLE_CHOICE",
+    "hints": [],
+    "id": "4I78ooqGSg0amjQhQTcz6o",
+    "metaData": {
+        "estimatedDifficulty": 2,
+        "estimatedDuration": 120,
+        "isMobile": true
+    },
+    "multipleResponses": false,
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "TB3_D9_K2S2_Bre 8",
+    "topic": {
+        "description": "Die Sch\u00fclerinnen und Sch\u00fcler k\u00f6nnen Ungleichungen (auch mit Hilfe der Linearfaktorzerlegung) l\u00f6sen",
+        "displayedOnDashboard": false,
+        "id": 1005,
+        "name": "Ungleichungen"
+    },
+    "type": "MULTIPLE_CHOICE",
+    "version": 0,
+    "versionComment": ""
+}

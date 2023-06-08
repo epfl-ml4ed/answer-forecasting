@@ -1,0 +1,984 @@
+{
+    "author": {
+        "domain": {
+            "defaultTenant": {
+                "id": 1,
+                "name": "Lernnavi"
+            },
+            "id": 1,
+            "name": "Lernnavi"
+        },
+        "email": "nadja.orfei@kantiolten.ch",
+        "firstName": "Nadja",
+        "id": 7351,
+        "isEmailVerified": true,
+        "lastName": "Orfei"
+    },
+    "createdTime": 1605682758948,
+    "description": "<p><strong>Der nachfolgende Text ist jeweils durch einen Schr&auml;gstrich in drei Abschnitte gegliedert. Markiere in jedem Abschnitt eine These (Behauptung, Forderung/Empfehlung, Werturteil).</strong></p>",
+    "documentType": "HIGHLIGHT",
+    "highlight": [
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Dass"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "regelm\u00e4ssiger"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Cannabiskonsum"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "sch\u00e4dlich"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "sein"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "kann"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "\u2013"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "erst"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "recht"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "beim"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Kiffen"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "ohne"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Filter"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "\u2013,"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "ist"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "unbestritten"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "-"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "doch"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "dasselbe"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "gilt"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "auch"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "fu\u0308r"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Tabak"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Alkohol."
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Der"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Bund"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "sch\u00e4tzt"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "sozialen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "volkswirtschaftlichen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Kosten"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "des"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Trinkens"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "auf"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "u\u0308ber"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "vier"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Milliarden"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Franken"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "pro"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Jahr."
+        },
+        {
+            "correct": false,
+            "isBold": true,
+            "token": "/"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Im"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Zentrum"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "der"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "\u00dcberlegungen"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "zur"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Cannabislegalisierung"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "sollte"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "der"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Jugendschutz"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "stehen."
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Die"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Abgabe"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "von"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Cannabis"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "an"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Minderj\u00e4hrige"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "soll"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "ohne"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "medizinische"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Indikation"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "verboten"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "bleiben."
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Wenn"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Heranwachsende"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "schon"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "fru\u0308h"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "gewohnheitsm\u00e4ssig"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "viel"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "kifften,"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "k\u00f6nne"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "dadurch"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Hirnentwicklung"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "negativ"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "beeinflusst"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "werden,"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "mahnt"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Stiftung"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Sucht"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Schweiz"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "\u2013"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "dies"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "in"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "einer"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Phase,"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "fu\u0308r"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "das"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Herausbilden"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "der"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "eigenen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Identit\u00e4t"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "wesentlich"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "ist"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "in"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "der"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Weichen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "gestellt"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "werden"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "fu\u0308r"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "berufliche"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Zukunft."
+        },
+        {
+            "correct": false,
+            "isBold": true,
+            "token": "/"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Die"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Legalisierung"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "wu\u0308rde"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "dem"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Schwarzmarkt"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Existenzgrundlage"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "entziehen,"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "dadurch"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "g\u00e4be"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "es"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "voraussichtlich"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "weniger"
+        },
+        {
+            "correct": true,
+            "isBold": false,
+            "token": "Kriminalit\u00e4t."
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "L\u00e4nder"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "wie"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Uruguay"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Neuseeland"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "sowie"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "mehrere"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "US-Gliedstaaten"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "haben"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "ganze"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Cannabis-Produktionskette"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "geregelt"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "und"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "damit"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "bisher"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "u\u0308berwiegend"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "positive"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Erfahrungen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "gemacht."
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "So"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "wird"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "in"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Colorado"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "betont,"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "es"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "habe"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "weder"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "einen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Anstieg"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "des"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Konsums"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "bei"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Teenagern"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "gegeben"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "noch"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "negative"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Auswirkungen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "auf"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "\u00f6ffentliche"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Sicherheit."
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Auf"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "solcher"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Vorarbeit"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "kann"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Schweiz"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "jetzt"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "aufbauen"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "\u2013"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "immer"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "im"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Bewusstsein"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "um"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Fallstricke,"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "die"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "bei"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "den"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "Legalisierungs-Vorreitern"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "offenkundig"
+        },
+        {
+            "correct": false,
+            "isBold": false,
+            "token": "wurden."
+        }
+    ],
+    "hints": [],
+    "id": "40qZg2IJAJ8aHJHrXMlrvL",
+    "metaData": {
+        "estimatedDifficulty": 3,
+        "isMobile": true
+    },
+    "solutionSteps": [],
+    "status": "LIVE",
+    "tenant": {
+        "id": 1,
+        "name": "Lernnavi"
+    },
+    "title": "7.2E_TEXTREZ_MIKRO_ DEUT ",
+    "topic": {
+        "description": "",
+        "displayedOnDashboard": false,
+        "id": 3130,
+        "name": "Die Bedeutung von Aussagen erkennen"
+    },
+    "type": "HIGHLIGHT",
+    "version": 0,
+    "versionComment": ""
+}

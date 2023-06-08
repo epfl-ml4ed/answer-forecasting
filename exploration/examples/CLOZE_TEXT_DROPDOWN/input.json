@@ -1,0 +1,7 @@
+{
+    "clozeInputs": [
+        "f\u00fcr alle Werte von $m$",
+        "$m=3$"
+    ],
+    "type": "CLOZE_TEXT_DROPDOWN"
+}
