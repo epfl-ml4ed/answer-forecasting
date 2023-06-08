@@ -1,5 +1,5 @@
 # Answer Forecasting: ML-Driven Predictions in Lernnavi
-## *alternative title*: BERT goes to EPFL: MCQ prediction with a Muppet twist!
+## *alternative title*: "BERT goes to EPFL: MCQ prediction with a Muppet twist!"
 
 <br/>
 <br/>
