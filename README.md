@@ -1,3 +1,9 @@
+# Answer Forecasting: ML-Driven Predictions in Lernnavi
+## *alternative title*: BERT goes to EPFL: MCQ prediction with a Muppet twist!
+
+<br/>
+<br/>
+
 The repository is structured as follows:
 - data is the folder in which should be placed the original data and all the subsequent obtained data. Can be downloaded from [here](https://drive.google.com/drive/folders/14PoILQG5sK7tSWMJtBfNUH_3UkXzR_dD?usp=sharing). The link has restricted access for data confidentiality reasons.
 - the folder `exploration` contains the initial exploration (analysis on raw data) and some initial data extraction for the question/answer pairs
