@@ -19,6 +19,8 @@ To recreate the results and the data from scratch, the following steps should be
 4. Run the `autoencoder_lstm.ipynb` notebook (takes several hours)
 5. Run the `Answer_prediction_STEP_3_Student_MCQs_Training.ipynb` notebook (takes several hours)
 
+<br/>
+<br/>
 
-## **Team ExtraPizzaFostersLearning**
+## **Team ExtraPizzaFostersLearning 🍕** 
 ***Luca Zunino***, ***Elena Gado***, ***Tommaso Martorella***
