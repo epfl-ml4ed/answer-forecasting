@@ -10,7 +10,7 @@ The repository is structured as follows:
 - the files `feature_engineering.ipynb` and `feature_engineering_2.ipynb` contain the feature engineering for the student's data (masteries extraction, mastery-question time matching, ...)
 - the files `autoencoder.ipynb` and `autoencoder_lstm.ipynb` contain the different models we used to create the student's embeddings
 - the file `preprocessing.py` is adjust the data obtained from `feature_engineering` notebooks for the use in the `autoencoder` notebooks (e.g. train/val/test split)
-- the files `Answer_prediction_STEP_1_Language_Modelling.ipynb`, `Answer_prediction_STEP_2_Correct_MCQs_Training.ipynb`, and `Answer_prediction_STEP_3_Student_MCQs_Training.ipynb` contains the code and illustration for the creation of LernnaviBERT, training on MCQ prediction and finetuning on student-based MCQ forecasting, respectively
+- the files `Answer_prediction_STEP_1_Language_Modelling.ipynb`, `Answer_prediction_STEP_2_Correct_MCQs_Training.ipynb`, and `Answer_prediction_STEP_3_Student_MCQs_Training - *.ipynb` contains the code and illustration for the creation of LernnaviBERT, training on MCQ prediction and finetuning on student-based MCQ forecasting, respectively
 
 To recreate the results and the data from scratch, the following steps should be followed:
 1. Place the original data in the `data\original\data` folder
