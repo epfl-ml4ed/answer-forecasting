@@ -205,7 +205,7 @@ def quick_train(
     val_set,
     encoding_dim,
     verbose=False,
-    lr=1e-3,
+    lr=1e-5,
     epochs=100,
     clip_value=1,
     denoise=False,
