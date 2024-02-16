@@ -1,3 +1,7 @@
 data/*
+checkpoints
+plots
+figures
+src/__pycache__
 
 !data/README.md
