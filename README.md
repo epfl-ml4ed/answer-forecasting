@@ -1,5 +1,5 @@
 # Student Answer Forecasting
-This repository is the official implementation of the EDM 2024 poster paper entitled ["Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning"]() written by [Elena Grazia Gado*](), [Tommaso Martorella*](), [Luca Zunino*](), [Paola Mejia-Domenzain](), [Vinitra Swamy](http://github.com/vinitra), Jibril Frej, and [Tanja Käser](https://people.epfl.ch/tanja.kaeser/?lang=en).
+This repository is the official implementation of the EDM 2024 poster paper entitled ["Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning"]() written by [Elena Grazia Gado*](), [Tommaso Martorella*](), [Luca Zunino*](), [Paola Mejia-Domenzain](), [Vinitra Swamy](http://github.com/vinitra), [Jibril Frej](https://github.com/Jibril-Frej), and [Tanja Käser](https://people.epfl.ch/tanja.kaeser/?lang=en).
 
 ## Overview
 
