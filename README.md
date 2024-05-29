@@ -9,18 +9,6 @@ Intelligent Tutoring Systems (ITS) enhance personalized learning by predicting s
 
 #### *alternative title*: "BERT goes to EPFL: MCQ prediction with a Muppet twist!"
 
-## Usage guide
-
-To recreate the results and the data from scratch, the following steps should be followed:
-0. Install relevant dependencies with `pip install -r requirements.txt`.
-1. Place the original data in the `data/original/data` folder
-2. Run the `src/exploration/exploration.ipynb` notebook
-3. Run the `src/feature_engineering/feature_engineering.ipynb` and `src/feature_engineering/feature_engineering_2.ipynb` notebooks
-4. Run the `src/preprocessing.py` file
-5. Run an `autoencoder` notebook (takes several hours)
-6. (OPTIONAL): Run `src/answer_prediction/Answer_prediction_STEP_1` and `STEP_2` to perform domain adaptation and correct-answer finetuning.
-7. Run the `Answer_prediction_STEP_3_Student_MCQs_Training.ipynb` notebook for the student-answer training (takes several hours)
-
 ## Models
 We present four model architectures to generate embeddings from past interactions (MLP with mastery features, LSTM with QA pairs, LernnaviBERT with QA pairs, Mistral-7B Instruct with QA pairs) and two integration strategies for Student Answer Prediction with interaction embeddings (MCQStudentBertSum and MCQStudentBertCat)
 
@@ -36,7 +24,17 @@ We extensively evaluate our models on a large data set including a comprehensive
 **(RQ2)** How can we integrate these student interaction embeddings to improve the performance of an answer forecasting model?
 
 Running the code:
-- `data` is the folder in which the course data should be placed in the format: TODO
+- `data` is the folder in which the Lernnavi data should be placed in the format:
+
+data
+|-- original
+|   `-- data
+|       |-- documents.csv.gz
+|       |-- events.csv.gz
+|       |-- topics_translated.csv
+|       |-- transactions.csv.gz
+|       `-- users.csv.gz
+
 - the folder `src/exploration` contains the initial exploration (analysis on raw data) and some initial data extraction for the question/answer pairs
 - the files in `src/feature_engineering` contain the data processing and feature engineering for the student's data (masteries extraction, mastery-question time matching, ...)
 - the files in `src/student_embeddings` contain all the code required for the embedding creation (`embedding_creation.ipynb`), the autoencoder training (`autoencoder.ipynb`, `train_lstm.py`, and `autoencoder_lstm.ipynb`),  and the embedding visualization (`visualization.ipynb`)
