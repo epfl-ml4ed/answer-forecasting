@@ -26,6 +26,7 @@ We extensively evaluate our models on a large data set including a comprehensive
 Running the code:
 - `data` is the folder in which the Lernnavi data should be placed in the format:
 
+```
 data
 |-- original
 |   `-- data
@@ -34,6 +35,7 @@ data
 |       |-- topics_translated.csv
 |       |-- transactions.csv.gz
 |       `-- users.csv.gz
+```
 
 - the folder `src/exploration` contains the initial exploration (analysis on raw data) and some initial data extraction for the question/answer pairs
 - the files in `src/feature_engineering` contain the data processing and feature engineering for the student's data (masteries extraction, mastery-question time matching, ...)
