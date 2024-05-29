@@ -1,5 +1,7 @@
-# Student Answer Forecasting
-This repository is the official implementation of the EDM 2024 paper entitled ["Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning"]() written by [Elena Grazia Gado*](), [Tommaso Martorella*](), [Luca Zunino*](), [Paola Mejia-Domenzain](), [Vinitra Swamy](http://github.com/vinitra), [Jibril Frej](https://github.com/Jibril-Frej), and [Tanja Käser](https://people.epfl.ch/tanja.kaeser/?lang=en).
+# Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning
+This repository is the official implementation of the EDM 2024 paper entitled ["Student Answer Forecasting: Transformer-Driven Answer Choice Prediction for Language Learning"]() written by [Elena Grazia Gado*](https://www.linkedin.com/in/elena-grazia-gado-a73646248/), [Tommaso Martorella*](https://www.linkedin.com/in/tommymarto/), [Luca Zunino*](https://www.linkedin.com/in/lucazunino/), [Paola Mejia-Domenzain](), [Vinitra Swamy](http://github.com/vinitra), [Jibril Frej](https://github.com/Jibril-Frej), and [Tanja Käser](https://people.epfl.ch/tanja.kaeser/?lang=en).
+
+<img width="100%" alt="Student Answer Forecasting pipeline" src="https://github.com/epfl-ml4ed/answer-forecasting/assets/41111850/af8e5929-19da-4f0b-936a-99aac9e96e7f">
 
 ## Overview
 
@@ -20,7 +22,7 @@ To recreate the results and the data from scratch, the following steps should be
 7. Run the `Answer_prediction_STEP_3_Student_MCQs_Training.ipynb` notebook for the student-answer training (takes several hours)
 
 ## Models
-We present three model architectures to TODO
+We present four model architectures to generate embeddings from past interactions (MLP with mastery features, LSTM with QA pairs, LernnaviBERT with QA pairs, Mistral-7B Instruct with QA pairs) and two integration strategies for Student Answer Prediction with interaction embeddings (MCQStudentBertSum and MCQStudentBertCat)
 
 You can load a model and compute predictions (inference) with the following code snippet:
 ```
@@ -28,8 +30,12 @@ You can load a model and compute predictions (inference) with the following code
 ```
 
 ## Scripts
-We extensively evaluate our models on a large data set including TODO. With our analyses, we target the following two research questions, addressed through experiments in this repository:
+We extensively evaluate our models on a large data set including a comprehensive set of student interactions, question contexts, and answer choices from a real-world ITS with more than 10000 students. With our analyses, we target the following two research questions, addressed through experiments in this repository:
 
+**(RQ1)** How can we design a performant embedding for student interactions in German?
+**(RQ2)** How can we integrate these student interaction embeddings to improve the performance of an answer forecasting model?
+
+Running the code:
 - `data` is the folder in which the course data should be placed in the format: TODO
 - the folder `src/exploration` contains the initial exploration (analysis on raw data) and some initial data extraction for the question/answer pairs
 - the files in `src/feature_engineering` contain the data processing and feature engineering for the student's data (masteries extraction, mastery-question time matching, ...)
