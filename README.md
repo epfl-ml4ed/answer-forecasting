@@ -13,8 +13,44 @@ Intelligent Tutoring Systems (ITS) enhance personalized learning by predicting s
 We present four model architectures to generate embeddings from past interactions (MLP with mastery features, LSTM with QA pairs, LernnaviBERT with QA pairs, Mistral-7B Instruct with QA pairs) and two integration strategies for Student Answer Prediction with interaction embeddings (MCQStudentBertSum and MCQStudentBertCat)
 
 You can load a model and compute predictions (inference) with the following code snippet:
-```
+```python
+import torch
+import pandas as pd
+from transformers import AutoModelForCausalLM, AutoModel, AutoTokenizer
 
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+token = my_hf_token
+
+# load Mistral 7B Instruct to be used as the embedding model
+tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.1", token=token)
+model = AutoModelForCausalLM.from_pretrained("mistralai/Mistral-7B-Instruct-v0.1", torch_dtype=torch.float16, token=token).to(device)
+
+# load MCQStudentBert
+model_bert = AutoModel.from_pretrained("epfl-ml4ed/MCQStudentBertCat", trust_remote_code=True, token=token).to(device)
+tokenizer_bert = AutoTokenizer.from_pretrained("dbmdz/bert-base-german-uncased")
+
+with torch.no_grad():
+    # create interactions list and use them to create the student embedding
+    interactions = pd.DataFrame([
+        {"question": question_text, "choice": student_answer},
+        ...
+    ])
+    joined_interactions = f"{tokenizer.sep_token}".join(interactions.apply(lambda x: f"Q: {x['question']}{tokenizer.sep_token}A: {x['choice']}", axis=1).values)
+
+    embeddings = model(
+        **tokenizer(joined_interactions, return_tensors="pt", truncation=True, max_length=4096).to(device),
+        output_hidden_states=True
+    ).hidden_states[-1].squeeze(0).mean(0)
+
+    # use MCQStudentBert for Student Answer Forecasting
+    output = torch.nn.functional.sigmoid(
+        model_bert(
+            tokenizer_bert(last_question, return_tensors="pt").input_ids.to(device),
+            embeddings.to(torch.float32)
+        ).cpu()
+    ).item() > 0.5
+
+    print(output)
 ```
 
 ## Scripts
